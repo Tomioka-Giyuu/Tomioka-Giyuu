@@ -1,14 +1,14 @@
 ![](https://github.com/Tomioka-Giyuu/Tomioka-Giyuu/blob/main/ok.gif)
 ## :wave: Hello There, My name is Kamal.
-+ 3rd year Computer Science Student 
++ Graduated Computer Science Student 
 + Co-Founder of **[AniHubX](https://github.com/AniHubX)**.
-+ Founder of **[Rufzen]()**.
 
 ## Skills - 
 + Web Development 
   -  Framework & Libraries -
      - React JS
      - Next JS
+     - Vite JS + React
   - Languages -
     - JavaScript 
     - HTML
