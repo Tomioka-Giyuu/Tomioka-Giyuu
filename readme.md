@@ -1,7 +1,7 @@
-![](https://github.com/Tomioka-Giyuu/Tomioka-Giyuu/blob/main/ok.gif)
 ## :wave: Hello There, My name is Kamal.
-+ Graduated Computer Science Student 
-+ Co-Founder of **[AniHubX](https://github.com/AniHubX)**.
++ Comp. Science Grad
++ Web Designer/Developer, UI/UX Designer, Data Science Enthusiast
++ Co-Founder at **[AniHubX](https://github.com/AniHubX)**.
 
 ## Skills - 
 + Web Development 
@@ -9,32 +9,25 @@
      - React JS
      - Next JS
      - Vite JS + React
+     - Matplotlib
+     - Seaborn
+       
   - Languages -
+    - Python
     - JavaScript 
     - HTML
     - CSS
-  - Database - 
+      
+  - Database -
+    - My SQL
     - Firebase
+      
   - Tools -
     - Visual Studio Code
-    - Visual Sudio
+    - Jupyter
+      
   - Operating System -
     - Windows
-
-+ UX/UI Design 
-  - Tools -
-    - Beginner :
-      - Photoshop
-      - Illustrator
-    - Intermediate -
-      - Webflow 
-    - Advanced - 
-      - Figma
-  - Application(s) -
-    - Prototyping
-    - Wireframing
-    - Persona Building
-    - User Experience
     
 + Other
   - Freelancing ==> **[Fiverr.](https://www.fiverr.com/kamal_rai1?public_mode=true)**
