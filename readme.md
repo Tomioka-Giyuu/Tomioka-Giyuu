@@ -1,7 +1,6 @@
 ## :wave: Hello There, My name is Kamal.
 + Comp. Science Grad
 + Web Designer/Developer, UI/UX Designer, Data Science Enthusiast
-+ Co-Founder at **[AniHubX](https://github.com/AniHubX)**.
 
 ## Skills - 
 + Web Development 
@@ -31,7 +30,6 @@
     
 + Other
   - Freelancing ==> **[Fiverr.](https://www.fiverr.com/kamal_rai1?public_mode=true)**
-  - Encoding Media ==> **[【ＦＰＳ 道場】](https://fpsdojo.github.io/)** &  **[AniHubX](https://anihubx.github.io/)**
 
 ## Fav Quote -
 ###### “Design is not just what it looks like and feels like. Design is how it works.” - Steve Jobs
