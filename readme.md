@@ -3,7 +3,6 @@
 + Web Designer/Developer, UI/UX Designer, Data Science Enthusiast
 
 ## Skills - 
-+ Web Development 
   -  Framework & Libraries -
      - React JS
      - Next JS
@@ -24,9 +23,13 @@
   - Tools -
     - Visual Studio Code
     - Jupyter
+    - Figma
+    - Photoshop
+    - After Effects
       
   - Operating System -
     - Windows
+    - Parrot OS
     
 + Other
   - Freelancing ==> **[Fiverr.](https://www.fiverr.com/kamal_rai1?public_mode=true)**
