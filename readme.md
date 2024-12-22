@@ -1,6 +1,6 @@
 ## :wave: Hello There, My name is Kamal.
 + Comp. Science Grad
-+ Web Designer/Developer, UI/UX Designer, Data Science Enthusiast
++ Product Manager, UI/UX Designer, Data Analyst
 
 ## Skills - 
   -  Framework & Libraries -
@@ -13,8 +13,6 @@
   - Languages -
     - Python
     - JavaScript 
-    - HTML
-    - CSS
       
   - Database -
     - My SQL
@@ -24,15 +22,14 @@
     - Visual Studio Code
     - Jupyter
     - Figma
-    - Photoshop
-    - After Effects
+    - Jira
+    - Power BI
       
   - Operating System -
     - Windows
     - Parrot OS
     
-+ Other
-  - Freelancing ==> **[Fiverr.](https://www.fiverr.com/kamal_rai1?public_mode=true)**
+
 
 ## Fav Quote -
 ###### “Design is not just what it looks like and feels like. Design is how it works.” - Steve Jobs
